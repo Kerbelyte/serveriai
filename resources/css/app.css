@@ -1,0 +1,15 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    grid-gap: 20px;
+}
+a.btn.btn-secondary {
+    width: 280px;
+    margin-top: 10px;
+}
+a.btn.btn-dark {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
